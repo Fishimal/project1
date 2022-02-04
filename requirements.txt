@@ -1,1 +1,4 @@
-
+numpy
+pandas
+streamlit
+sickit-learn==0.22.2
